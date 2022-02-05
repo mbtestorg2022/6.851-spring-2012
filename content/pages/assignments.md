@@ -21,15 +21,108 @@ Policies
 Assignments
 -----------
 
-| PROBLEM SETS | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1—Due Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps1) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps1sol) |
-| [Problem Set 2—Due Lecture 5 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps2) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps2sol) |
-| [Problem Set 3—Due Lecture 7 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps3) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps3sol) |
-| [Problem Set 4—Due Lecture 9 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps4) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps4sol) |
-| [Problem Set 5—Due Lecture 11 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps5) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps5sol) |
-| [Problem Set 6—Due Lecture 13 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps6) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps6sol) |
-| [Problem Set 7—Due Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps7) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps7sol) |
-| [Problem Set 8—Due Lecture 16 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps8) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps8sol) |
-| [Problem Set 9—Due Lecture 18 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps9) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps9sol) |
-| [Problem Set 10—Due Lecture 20 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps10) | [Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps10sol)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1—Due Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps1sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2—Due Lecture 5 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps2sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3—Due Lecture 7 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps3sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4—Due Lecture 9 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps4sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5—Due Lecture 11 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps5)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps5sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6—Due Lecture 13 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps6sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 7—Due Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps7)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps7sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 8—Due Lecture 16 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps8)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps8sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 9—Due Lecture 18 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps9)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps9sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 10—Due Lecture 20 (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps10)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (PDF)]({{< baseurl >}}/resources/mit6_851s12_ps10sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
