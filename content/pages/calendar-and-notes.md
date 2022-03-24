@@ -49,7 +49,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec1)
+[Professor's Notes (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec1)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-1-persistent-data-structures)
@@ -79,7 +79,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.9MB)]({{< baseurl >}}/resources/mit6_851s12_lec2)
+[Professor's Notes (PDF - 5.9MB)]({{< baseurl >}}/resources/mit6_851s12_lec2)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-2-retroactive-data-structures)
@@ -109,7 +109,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_851s12_lec3)
+[Professor's Notes (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_851s12_lec3)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-3-geometric-structures-i)
@@ -139,7 +139,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec4)
+[Professor's Notes (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec4)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-4-geometric-structures-ii)
@@ -169,7 +169,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec5)
+[Professor's Notes (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec5)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-5-dynamic-optimality-i)
@@ -199,7 +199,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_851s12_lec6)
+[Professor's Notes (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_851s12_lec6)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-6-dynamic-optimality-ii)
@@ -229,7 +229,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 7.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec7)
+[Professor's Notes (PDF - 7.1MB)]({{< baseurl >}}/resources/mit6_851s12_lec7)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-7-memory-hierarchy-models)
@@ -259,7 +259,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec8)
+[Professor's Notes (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec8)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-8-cache-oblivious-structures-i)
@@ -289,7 +289,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec9)
+[Professor's Notes (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec9)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-9-cache-oblivious-structures-ii)
@@ -319,7 +319,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.0MB)]({{< baseurl >}}/resources/mit6_851s12_lec10)
+[Professor's Notes (PDF - 6.0MB)]({{< baseurl >}}/resources/mit6_851s12_lec10)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-10-dictionaries)
@@ -349,7 +349,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_851s12_lec11)
+[Professor's Notes (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_851s12_lec11)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-11-integer-models)
@@ -379,7 +379,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.6MB)]({{< baseurl >}}/resources/mit6_851s12_lec12)
+[Professor's Notes (PDF - 5.6MB)]({{< baseurl >}}/resources/mit6_851s12_lec12)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-12-fusion-trees)
@@ -409,7 +409,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec13)
+[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec13)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-13-integer-lower-bounds)
@@ -439,7 +439,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec14)
+[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec14)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-14-sorting-in-linear-time)
@@ -469,7 +469,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec15)
+[Professor's Notes (PDF - 5.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec15)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-15-static-trees)
@@ -499,7 +499,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF- 6.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec16)
+[Professor's Notes (PDF- 6.8MB)]({{< baseurl >}}/resources/mit6_851s12_lec16)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-16-strings)
@@ -527,7 +527,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec17)
+[Professor's Notes (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_851s12_lec17)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-17-succinct-structures-i)
@@ -557,7 +557,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_851s12_lec18)
+[Professor's Notes (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_851s12_lec18)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-18-succinct-structures-ii)
@@ -587,7 +587,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_851s12_lec19)
+[Professor's Notes (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_851s12_lec19)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-19-dynamic-graphs-i)
@@ -617,7 +617,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 7.4MB)]({{< baseurl >}}/resources/mit6_851s12_lec20)
+[Professor's Notes (PDF - 7.4MB)]({{< baseurl >}}/resources/mit6_851s12_lec20)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-20-dynamic-graphs-ii)
@@ -647,7 +647,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Professor's Notes (PDF - 4.6MB)]({{< baseurl >}}/resources/mit6_851s12_lec21)
+[Professor's Notes (PDF - 4.6MB)]({{< baseurl >}}/resources/mit6_851s12_lec21)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/resources/session-21-dynamic-connectivity-lower-bound)
