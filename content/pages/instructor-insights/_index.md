@@ -53,8 +53,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_6.046J/18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/), or an equivalent
-*   [_6.854J/18.415J Advanced Algorithms_](/courses/6-854j-advanced-algorithms-fall-2008/) is recommended
+*   [_6.046J/18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012), or an equivalent
+*   [_6.854J/18.415J Advanced Algorithms_](/courses/6-854j-advanced-algorithms-fall-2008) is recommended
 *   Details on content matter prerequisites are included in the [syllabus]({{< baseurl >}}/pages/syllabus)
 
 ### Requirements Satisfied
